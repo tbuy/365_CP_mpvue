@@ -1,0 +1,14 @@
+<template name="3720a4e1">
+  <view class="_div data-v-248af84a">
+    <view class="_p data-v-248af84a card">
+      {{ text }}
+    </view>
+    <view class="_div data-v-248af84a">
+      <van-button type="default" class="_van-button data-v-248af84a">默认按钮</van-button>
+      <van-button type="primary" class="_van-button data-v-248af84a">主要按钮</van-button>
+      <van-button type="info" class="_van-button data-v-248af84a">信息按钮</van-button>
+      <van-button type="warning" class="_van-button data-v-248af84a">警告按钮</van-button>
+      <van-button type="danger" class="_van-button data-v-248af84a">危险按钮</van-button>
+    </view>
+  </view>
+</template>
